@@ -44,4 +44,3 @@ pip install -r requirements.txt
 
 This is a learning project, but suggestions and improvements are always welcome.
 
-�
