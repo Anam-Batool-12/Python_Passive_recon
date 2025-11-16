@@ -1,4 +1,4 @@
-#  Python Passive Recon Toolkit
+# Python Passive Recon Toolkit
 
 *A growing collection of Python‑based OSINT & passive reconnaissance tools.*
 
@@ -16,6 +16,7 @@ The goal is to strengthen my fundamentals in cybersecurity while practicing clea
 > Never scan domains, systems, or assets without explicit permission.
 
 ---
+
 ## Purpose of This Repo
 
 This series helps me learn:
@@ -29,12 +30,18 @@ This series helps me learn:
 
 ---
 
-Requirements
+## Requirements
 
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
-Contributions
+---
+
+##  Contributions
 
 This is a learning project, but suggestions and improvements are always welcome.
+
+�
