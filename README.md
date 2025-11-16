@@ -29,12 +29,12 @@ This series helps me learn:
 
 ---
 
-## Requirements
+Requirements
 
 Install dependencies:
 
-```bash
-pip install -r requirements.txt```
-## Contributions
+pip install -r requirements.txt
+
+Contributions
 
 This is a learning project, but suggestions and improvements are always welcome.
